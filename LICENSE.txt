@@ -1,0 +1,2 @@
+hello, my name is cherry
+I want to learn git
