@@ -4,4 +4,4 @@ git has a mutable index called stage
 git tracks changes
 my stupid boss still prefer SVN
 create a new branch is quick and simple
-create a dev branch is so quick
+create a issue-101 branch is so quick
